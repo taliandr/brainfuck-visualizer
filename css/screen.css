@@ -92,6 +92,7 @@ section.machine {
             white-space: pre;
             display: block;
             overflow: hidden;
+            overflow-y: scroll;
             word-wrap: normal;
         }
 
